@@ -50,7 +50,6 @@ let richest = [billionaires.reduce((prev, element) => {
     }
     return prev;
 } , {})];
- console.log(richest);
 
 /*
     find the poorest billioanire, make sure the result is in an array
